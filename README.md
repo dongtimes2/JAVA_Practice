@@ -1,1 +1,1 @@
-# JAVA_Practice
+# JAVA 연습문제 
